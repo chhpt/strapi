@@ -14,9 +14,6 @@
           "containerPort": 1337,
           "envVariables": {
             "DATABASE_NAME": "strapi"
-          },
-          "volumeMounts": {
-            "/srv/app": "strapi-cfs"
           }
         }
       }
