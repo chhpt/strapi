@@ -21,10 +21,6 @@
     "requirement": {
       "addons": [
         {
-          "type": "CFS",
-          "name": "strapi-cfs"
-        },
-        {
           "type": "CynosDB",
           "name": "strapi",
           "envMap": {
